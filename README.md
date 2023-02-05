@@ -4,15 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a krestiki_noliki game written in Flutter. The game is implemented as a StatefulWidget and allows players to take turns marking spaces on a 3x3 grid with either an 'X' or an 'O'. The game checks for a winner after each move and displays a message when the game is over. A restart button is also provided, allowing players to start a new game once the current one is finished. The user interface is built using the GridView and ElevatedButton widgets from the Flutter Material library. The code is well-commented and easy to understand, making it a great starting point for anyone looking to build their own Tic Tac Toe game in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# krestiki_noliki_game
 # krestiki_noliki_game
